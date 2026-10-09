@@ -1,0 +1,11 @@
+customer_id,customer_name,city,country,segment
+C001,Aarav Sharma,Mumbai,India,Enterprise
+C002,Priya Nair,Bengaluru,India,Retail
+C003,Rohan Mehta,Delhi,India,Wholesale
+C004,Emily Carter,London,United Kingdom,Enterprise
+C005,Hiroshi Tanaka,Tokyo,Japan,Wholesale
+C006,Fatima Al-Mansouri,Dubai,UAE,Retail
+C007,Lucas Muller,Berlin,Germany,Enterprise
+C008,Sophia Johnson,New York,USA,Wholesale
+C009,Ananya Iyer,Chennai,India,Retail
+C010,Carlos Silva,Sao Paulo,Brazil,Retail

@@ -1,0 +1,4 @@
+venv/
+.env
+logistics.db
+__pycache__/

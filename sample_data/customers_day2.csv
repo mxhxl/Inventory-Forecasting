@@ -1,0 +1,6 @@
+customer_id,customer_name,city,country,segment
+C002,Priya Nair,Hyderabad,India,Retail
+C005,Hiroshi Tanaka,Tokyo,Japan,Enterprise
+C008,Sophia Johnson,Chicago,USA,Wholesale
+C011,Kavya Reddy,Hyderabad,India,Retail
+C012,Omar Haddad,Cairo,Egypt,Wholesale
