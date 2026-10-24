@@ -2,3 +2,4 @@ venv/
 .env
 logistics.db
 __pycache__/
+Inventory_Forecasting/
